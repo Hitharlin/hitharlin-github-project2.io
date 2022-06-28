@@ -6,7 +6,7 @@
 
 @media screen and (max-width: 780px) {
 	.work_section_clients {
-		flex-wrap: nowrap;
+		flex-wrap: wrap;
 	}
 
 
